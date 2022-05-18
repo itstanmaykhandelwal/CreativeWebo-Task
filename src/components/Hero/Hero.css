@@ -1,0 +1,14 @@
+.lead {
+    justify-content: center;
+    text-align: center;
+    padding: 15px 0;
+}
+
+.hero {
+    margin-top: 200px;
+    text-align: center;
+}
+
+.hero button {
+    background-color: #cb9d63;
+}

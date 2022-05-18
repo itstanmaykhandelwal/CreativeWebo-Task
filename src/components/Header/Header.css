@@ -1,0 +1,8 @@
+.headerMain {
+    background-image: linear-gradient(rgba(86, 49, 6, 0.612) 100%, rgba(95, 43, 4, 0.5)100%), url('../../assets/Pic1.jpg');
+    color: white;
+    background-size: cover;
+    /* background-position: bottom; */
+    padding-bottom: 100px;
+    height: 100vh;
+}

@@ -1,0 +1,31 @@
+.counter {
+    margin-top: -35px;
+}
+
+i {
+    font-size: 35px;
+}
+
+p {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+h2 {
+    color: #4d3d2c;
+    font-size: 40px;
+}
+
+@media (min-width: 768px) {
+    .ten-columns>.col-sm-2 {
+        width: 20%;
+    }
+}
+
+.col-sm-2 {
+    color: #fff;
+    font-size: 28px;
+    font-weight: bold;
+    min-height: 50px;
+    padding-top: 6px;
+}
